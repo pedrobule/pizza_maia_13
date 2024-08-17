@@ -189,7 +189,7 @@ footer .fab:hover {
         height: 3000px;
         background-color: #3d1919;
         color: #fff;
-        padding-top: 140px;
+        padding-top: 330px;
     }
 
     #sobre img {
@@ -208,7 +208,15 @@ footer .fab:hover {
         height: 5000px;
         background-color: #3d1919;
         color: #fff;
-        padding-top: 50px;
+        padding-top: 330px;
+    }
+
+    #contato {
+        padding-top: 210px;
+    }
+
+    #sobre {
+        padding-top: 210px;
     }
 
     #sobre img {
